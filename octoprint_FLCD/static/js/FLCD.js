@@ -5,7 +5,7 @@
  * License: AGPLv3
  */
 $(function() {
-    function FlcdViewModel(parameters) {
+    function FLCDViewModel(parameters) {
         var self = this;
 
         // assign the injected parameters, e.g.:
@@ -17,7 +17,7 @@ $(function() {
 
     // view model class, parameters for constructor, container to bind to
     OCTOPRINT_VIEWMODELS.push([
-        FlcdViewModel,
+        FLCDViewModel,
 
         // e.g. loginStateViewModel, settingsViewModel, ...
         [ /* "loginStateViewModel", "settingsViewModel" */ ],
