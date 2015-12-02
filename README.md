@@ -1,6 +1,6 @@
 # OctoPrint-FLCD
 
-**TODO:** Describe what your plugin does.
+OctoPrint plugin to use a small I2C-connected LCD panel for status and control.
 
 ## Setup
 
